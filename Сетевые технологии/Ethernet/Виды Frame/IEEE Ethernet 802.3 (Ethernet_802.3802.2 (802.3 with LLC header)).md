@@ -1,8 +1,8 @@
 IEEE Ethernet 802.3 (Ethernet_802.3/802.2 (802.3 with LLC header))
 ========================
 
-![Ethernet 802.3 frame](../../media/qownnotes-media-bZRiFF.png)
-![Ethernet 802.3 frame 2](../../media/qownnotes-media-ISXENc.png)
+![Ethernet 802.3 frame](../../../media/qownnotes-media-bZRiFF.png)
+![Ethernet 802.3 frame 2](../../../media/qownnotes-media-ISXENc.png)
 
 Поле E-TYPE преобразовано в поле Length, которое указывало на количество байт следующее за этим полем и до поля FCS. Теперь, понять у кого длинее можно было уже на втором уровне системы OSI. Но, указатель на тип протокола 3его уровня был нужен, и IEEE дало миру следующую инновацию — два поля по 1 байту — Source Service Access Point(SSAP) и Destination Service Access Point (DSAP). Цель, таже самая, – идентифицировать вышестоящий протокол. Теперь, благодаря наличию двух полей в рамках одной сессии пакет мог передаваться между разными протоколами, либо же один и тот же протокол мог по разному называться на двух концах одной сессии. 
 

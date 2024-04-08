@@ -14,12 +14,12 @@ Hub это устройство первого уровня (то есть ус�
 2. 802.2 Logical Link Control (LLC)
 
 ## Версии Ethernet
-1. [Ethernet DIX (Ethernet II)](Ethernet%20DIX%20%28Ethernet%20II%29.md)
-2. [IEEE Ethernet 802.3 (Ethernet_802.3/802.2 (802.3 with LLC header))](IEEE%20Ethernet%20802.3%20%28Ethernet_802.3802.2%20%28802.3%20with%20LLC%20header%29%29.md)
-3. [IEEE 802.3 с SNAP заголовком](IEEE%20802.3%20%D1%81%20SNAP%20%D0%B7%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%BE%D0%BC.md)
-4. [«Raw» 802.3](%C2%ABRaw%C2%BB%20802.3.md)
-5. [Jumbo Frame](Jumbo%20Frame.md)
-6. [802.1q](IEEE%20802.1Q.md) (vlan tag frame)
+1. [Ethernet DIX (Ethernet II)](%D0%92%D0%B8%D0%B4%D1%8B%20Frame%2FEthernet%20DIX%20%28Ethernet%20II%29.md)
+2. [IEEE Ethernet 802.3 (Ethernet_802.3/802.2 (802.3 with LLC header))](%D0%92%D0%B8%D0%B4%D1%8B%20Frame%2FIEEE%20Ethernet%20802.3%20%28Ethernet_802.3802.2%20%28802.3%20with%20LLC%20header%29%29.md)
+3. [IEEE 802.3 с SNAP заголовком](%D0%92%D0%B8%D0%B4%D1%8B%20Frame%2FIEEE%20802.3%20%D1%81%20SNAP%20%D0%B7%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%BE%D0%BC.md)
+4. [«Raw» 802.3](%D0%92%D0%B8%D0%B4%D1%8B%20Frame%2F%C2%ABRaw%C2%BB%20802.3.md)
+5. [Jumbo Frame](%D0%92%D0%B8%D0%B4%D1%8B%20Frame%2FJumbo%20Frame.md)
+6. [802.1q](%D0%92%D0%B8%D0%B4%D1%8B%20Frame%2FIEEE%20802.1Q.md) (vlan tag frame)
 
 ## Эволюция размеров Ethernet заголовков.
 

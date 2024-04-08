@@ -1,14 +1,14 @@
 IEEE 802.3 с SNAP заголовком
 ========================
 
-![Ethernet 802.3 with SNAP frame](../../media/qownnotes-media-GVkzAh.png)
-![Ethernet 802.3 with SNAP frame 2](../../media/qownnotes-media-sKvyLV.png)
-![SNAP frame](../../media/qownnotes-media-tSfYZx.png)
+![Ethernet 802.3 with SNAP frame](../../../media/qownnotes-media-GVkzAh.png)
+![Ethernet 802.3 with SNAP frame 2](../../../media/qownnotes-media-sKvyLV.png)
+![SNAP frame](../../../media/qownnotes-media-tSfYZx.png)
 
 Основное нововведение - добавление 5-ти байтного поля Subnetwork Access Protocol (SNAP), которое в свою очередь состоит из двух частей - 3х байтного поля Organizationally Unique Identifier (OUI) и 2х байтного Protocol ID (PID)
 
 OUI или же vendor code - позволяет идентифицировать пропиетарные протоколы указанием вендора. К примеру, если вы отловите WireShark пакет PVST+, то в поле OUI увидите код 0x00000c, который является идентификатором Cisco Systems
-![SNAP oui example](../../media/qownnotes-media-hujrtj.png)
+![SNAP oui example](../../../media/qownnotes-media-hujrtj.png)
 
 Замечание: Встретить пакет с инкапсуляцией в формат фрейма 802.3 SNAP довольно легко и сейчас – это все протоколы семейства STP, протоколы CDP, VTP, DTP.
 
