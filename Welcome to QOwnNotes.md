@@ -19,3 +19,4 @@ Welcome to your installation of **QOwnNotes**!
 - [ ] Add the [QOwnNotes Web Companion browser extension](https://github.com/qownnotes/web-companion) to a add notes from the selected text, bookmark management and other features
     - Visit the [Chrome Web Store](https://chrome.google.com/webstore/detail/qownnotes-web-companion/pkgkfnampapjbopomdpnkckbjdnpkbkp) or [Firefox Add-ons page](https://addons.mozilla.org/firefox/addon/qownnotes-web-companion) to install the extension.
 - [ ] Check [Spellchecking](https://www.qownnotes.org/editor/spellchecking.html) to setup spellchecking
+
