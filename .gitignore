@@ -1,3 +1,6 @@
 notes.sqlite
 trash/
 .ipynb_checkpoints
+__pycache__/
+*.pyc
+venv/
