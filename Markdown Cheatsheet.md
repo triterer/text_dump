@@ -44,11 +44,15 @@ Alt-H2
 Emphasis, aka italics, with *asterisks*.
 
 Strong emphasis, aka bold, with **asterisks**.
+
+~~The world is flat.~~ We now know that the world is round.
 ```
 
 Emphasis, aka italics, with *asterisks*.
 
 Strong emphasis, aka bold, with **asterisks**.
+
+~~The world is flat.~~ We now know that the world is round.
 
 
 ## Lists
@@ -117,6 +121,35 @@ URLs and URLs in angle brackets will automatically get turned into links in the 
 http://www.example.com or <http://www.example.com>
 
 [1]: https://www.qownnotes.org
+
+
+### Footnotes (not working)
+```markdown
+Here's a simple footnote,[^1] and here's a longer one.[^bignote]
+
+[^1]: This is the first footnote.
+
+[^bignote]: Here's one with multiple paragraphs and code.
+
+    Indent paragraphs to include them in the footnote.
+
+    `{ my code }`
+
+    Add as many paragraphs as you like.
+```
+
+
+Here's a simple footnote,[^1] and here's a longer one.[^bignote]
+
+[^1]: This is the first footnote.
+
+[^bignote]: Here's one with multiple paragraphs and code.
+
+    Indent paragraphs to include them in the footnote.
+
+    `{ my code }`
+
+    Add as many paragraphs as you like.
 
 
 ## Inline code and code blocks
