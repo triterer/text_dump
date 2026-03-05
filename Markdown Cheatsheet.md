@@ -154,7 +154,7 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
 ## Inline code and code blocks
 
-```markdown
+```markdown 
 Inline `code` has `backticks around` it.
 ```
 
